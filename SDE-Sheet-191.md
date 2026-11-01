@@ -11,7 +11,7 @@ This tracker follows the current **191-question / 27-section** Striver SDE Sheet
 - ⭐ High-priority
 
 ## Day 1: Arrays (6)
-1. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) [ ]
+1. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) [ x ]
 2. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) [ ]
 3. [Next Permutation](https://leetcode.com/problems/next-permutation/) [ ]
 4. [Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/) [ ]
