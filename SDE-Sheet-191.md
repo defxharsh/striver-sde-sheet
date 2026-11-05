@@ -149,7 +149,7 @@ This tracker follows the current **191-question / 27-section** Striver SDE Sheet
 104. [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) [ x ]
 105. [Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) [ x ]
 106. [Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) [ x ]
-107. [Morris Inorder Traversal](https://www.google.com/search?q=Morris+Inorder+Traversal+Striver) [ ]
+107. [Morris Inorder Traversal](https://www.google.com/search?q=Morris+Inorder+Traversal+Striver) [ x ]
 108. [Morris Preorder Traversal](https://www.google.com/search?q=Morris+Preorder+Traversal+Striver) [ ]
 109. [Left View](https://www.google.com/search?q=Left+View+Binary+Tree+Striver) [ ]
 110. [Bottom View](https://www.google.com/search?q=Bottom+View+Binary+Tree+Striver) [ ]
