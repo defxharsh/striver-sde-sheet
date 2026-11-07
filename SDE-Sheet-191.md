@@ -15,7 +15,7 @@ This tracker follows the current **191-question / 27-section** Striver SDE Sheet
 2. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) [ x ]
 3. [Next Permutation](https://leetcode.com/problems/next-permutation/) [ x ]
 4. [Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/) [ x ]
-5. [Sort an array of 0's, 1's and 2's](https://leetcode.com/problems/sort-colors/) [ ]
+5. [Sort an array of 0's, 1's and 2's](https://leetcode.com/problems/sort-colors/) [ x ]
 6. [Stock Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [ ]
 
 ## Day 2: Arrays Part-II (6)
