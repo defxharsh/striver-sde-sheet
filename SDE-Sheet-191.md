@@ -231,7 +231,7 @@ This tracker follows the current **191-question / 27-section** Striver SDE Sheet
 170. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) [ ]
 171. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) [ ] ⭐
 172. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) [ ] ⭐
-173. [0-1 Knapsack](https://www.google.com/search?q=0-1+Knapsack+Striver) [ ]
+173. [0-1 Knapsack](https://www.google.com/search?q=0-1+Knapsack+Striver) [ x ]
 174. [Edit Distance](https://leetcode.com/problems/edit-distance/) [ ] ⭐
 175. [Maximum Sum Increasing Subsequence](https://www.google.com/search?q=Maximum+Sum+Increasing+Subsequence+Striver) [ ]
 176. [Matrix Chain Multiplication](https://www.google.com/search?q=Matrix+Chain+Multiplication+Striver) [ ]
