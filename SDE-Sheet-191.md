@@ -239,7 +239,7 @@ This tracker follows the current **191-question / 27-section** Striver SDE Sheet
 ## Day 26: Dynamic Programming Part-II (8)
 177. [Minimum Sum Path](https://leetcode.com/problems/minimum-path-sum/) [ ]
 178. [Coin Change](https://leetcode.com/problems/coin-change/) [ ] ⭐
-179. [Subset Sum](https://www.google.com/search?q=Subset+Sum+Striver) [ ]
+179. [Subset Sum](https://www.google.com/search?q=Subset+Sum+Striver) [ x ]
 180. [Rod Cutting](https://www.google.com/search?q=Rod+Cutting+Striver) [ ]
 181. [Egg Dropping](https://www.google.com/search?q=Egg+Dropping+Striver) [ ]
 182. [Word Break](https://leetcode.com/problems/word-break/) [ ]
