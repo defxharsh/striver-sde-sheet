@@ -230,7 +230,7 @@ This tracker follows the current **191-question / 27-section** Striver SDE Sheet
 ## Day 25: Dynamic Programming (7)
 170. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) [ ]
 171. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) [ ] ⭐
-172. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) [ ] ⭐
+172. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) [ x ] ⭐
 173. [0-1 Knapsack](https://www.google.com/search?q=0-1+Knapsack+Striver) [ x ]
 174. [Edit Distance](https://leetcode.com/problems/edit-distance/) [ ] ⭐
 175. [Maximum Sum Increasing Subsequence](https://www.google.com/search?q=Maximum+Sum+Increasing+Subsequence+Striver) [ ]
