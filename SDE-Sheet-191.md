@@ -70,7 +70,7 @@ This tracker follows the current **191-question / 27-section** Striver SDE Sheet
 43. [N Meetings in One Room](https://www.google.com/search?q=N+Meetings+in+One+Room+Striver) [ ]
 44. [Minimum Number of Platforms](https://www.google.com/search?q=Minimum+Number+of+Platforms+Striver) [ ]
 45. [Job Sequencing](https://www.google.com/search?q=Job+Sequencing+Problem+Striver) [ ]
-46. [Fractional Knapsack](https://www.google.com/search?q=Fractional+Knapsack+Striver) [ ]
+46. [Fractional Knapsack](https://www.google.com/search?q=Fractional+Knapsack+Striver) [ x ]
 47. [Minimum Number of Coins](https://www.google.com/search?q=minimum+number+of+coins+greedy+Striver) [ ]
 48. [Activity Selection](https://www.google.com/search?q=Activity+Selection+Striver) [ ]
 
