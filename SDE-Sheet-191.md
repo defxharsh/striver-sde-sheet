@@ -84,7 +84,7 @@ This tracker follows the current **191-question / 27-section** Striver SDE Sheet
 
 ## Day 10: Recursion and Backtracking (6)
 55. [Print All Permutations](https://leetcode.com/problems/permutations/) [ ]
-56. [N Queens](https://leetcode.com/problems/n-queens/) [ x ]
+56. [N Queens](https://leetcode.com/problems/n-queens/) [ x ] ⭐
 57. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) [ ]
 58. [M Coloring Problem](https://www.google.com/search?q=M+Coloring+Problem+Striver) [ ]
 59. [Rat in a Maze](https://www.google.com/search?q=Rat+in+a+Maze+Striver) [ ]
