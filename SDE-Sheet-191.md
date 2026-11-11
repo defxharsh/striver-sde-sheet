@@ -29,7 +29,7 @@ This tracker follows the current **191-question / 27-section** Striver SDE Sheet
 ## Day 3: Arrays Part-III (6)
 13. [Search in a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) [ ]
 14. [Pow(x, n)](https://leetcode.com/problems/powx-n/) [ x ]
-15. [Majority Element (>N/2)](https://leetcode.com/problems/majority-element/) [ ]
+15. [Majority Element (>N/2)](https://leetcode.com/problems/majority-element/) [ x ]
 16. [Majority Element (>N/3)](https://leetcode.com/problems/majority-element-ii/) [ ]
 17. [Grid Unique Paths](https://leetcode.com/problems/unique-paths/) [ ]
 18. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) [ ]
