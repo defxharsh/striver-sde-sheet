@@ -161,7 +161,7 @@ This tracker follows the current **191-question / 27-section** Striver SDE Sheet
 
 ## Day 18: Binary Tree Part-II (8)
 116. [Level Order / Spiral](https://leetcode.com/problems/binary-tree-level-order-traversal/) [ ]
-117. [Height](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [ ]
+117. [Height](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [ x ]
 118. [Diameter](https://leetcode.com/problems/diameter-of-binary-tree/) [ ] ⭐
 119. [Height-Balanced Tree](https://leetcode.com/problems/balanced-binary-tree/) [ ]
 120. [LCA](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) [ ] ⭐
