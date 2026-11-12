@@ -139,7 +139,7 @@ This tracker follows the current **191-question / 27-section** Striver SDE Sheet
 
 ## Day 16: String Part-II (6)
 98. [Z-Function](https://www.google.com/search?q=Z+Function+Striver) [ ]
-99. [KMP / LPS Array](https://www.google.com/search?q=KMP+LPS+Striver) [ ]
+99. [KMP / LPS Array](https://www.google.com/search?q=KMP+LPS+Striver) [ x ] ⭐
 100. [Minimum Characters to Make String Palindromic](https://www.google.com/search?q=minimum+characters+inserted+palindrome+Striver) [ ]
 101. [Check for Anagrams](https://leetcode.com/problems/valid-anagram/) [ ]
 102. [Count and Say](https://leetcode.com/problems/count-and-say/) [ ]
